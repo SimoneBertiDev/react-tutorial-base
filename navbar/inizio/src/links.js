@@ -22,6 +22,26 @@ const links = [
     url: "/contatti",
     text: "contattaci",
   },
+  {
+    id: 5,
+    url: "/progetti",
+    text: "progetti",
+  },
+  {
+    id: 6,
+    url: "/contatti",
+    text: "contattaci",
+  },
+  {
+    id: 7,
+    url: "/progetti",
+    text: "progetti",
+  },
+  {
+    id: 8,
+    url: "/contatti",
+    text: "contattaci",
+  },
 ];
 
 const socialLinks = [

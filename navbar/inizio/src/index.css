@@ -268,6 +268,10 @@ p {
     height: auto !important;
   }
 
+  /* .show {
+    height: 10rem;
+  } */
+
   .nav-toggler {
     display: none;
   }
