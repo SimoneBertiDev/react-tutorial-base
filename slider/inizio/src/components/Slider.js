@@ -27,6 +27,15 @@ const Slider = () => {
     });
   };
 
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      prossimaSLide();
+    }, 9000);
+    // console.log(timer);//restituisce un id
+    return () => clearTimeout(timer);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [active]);
+
   return (
     <div className="container slider">
       {recensioni.map((recensione, index) => {
