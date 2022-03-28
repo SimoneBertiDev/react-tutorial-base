@@ -1,7 +1,9 @@
 import ColorGrading from "./components/ColorGrading";
 
 function App() {
-  return <div className="App">Color Grading</div>;
+  return <div className="App">
+    <ColorGrading/>
+  </div>;
 }
 
 export default App;
