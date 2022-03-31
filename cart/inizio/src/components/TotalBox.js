@@ -1,5 +1,7 @@
 import React from "react";
 import { useGlobalContext } from "../context/context";
+import formatNumber from "../utils/formatNumber";
+
 const TotalBox = () => {
   const { total } = useGlobalContext();
   return (
@@ -10,13 +12,11 @@ const TotalBox = () => {
         </header>
         <hr />
         <div className="card-content">
-          <h4>{total} €</h4>
+          <h4>{formatNumber(total)}</h4>
         </div>
         <hr />
         <footer className="card-footer">
-          <button className="btn btn-selector">
-            Ceckout
-          </button>
+          <button className="btn btn-selector">Checkout</button>
         </footer>
       </div>
     </section>
