@@ -1,0 +1,449 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"title": "Mapbox",
+        "description": "Washington, D.C."},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.166717529296875,
+          45.47361429775641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"title": "Mapbox",
+        "description": "Washington, D.C."},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.166202545166016,
+          45.46253867087026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"title": "Mapbox",
+        "description": "Washington, D.C."},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.178905487060547,
+          45.473975422863255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"title": "Mapbox",
+        "description": "Washington, D.C."},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.181137084960938,
+          45.46458541801283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"title": "Mapbox",
+        "description": "Washington, D.C."},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.18954849243164,
+          45.47084559505888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"title": "Mapbox",
+        "description": "Washington, D.C."},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.19881820678711,
+          45.46988253615095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"title": "Mapbox",
+        "description": "Washington, D.C."},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.187660217285156,
+          45.47758654665813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"title": "Mapbox",
+        "description": "Washington, D.C."},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.188518524169922,
+          45.467474816887716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"title": "Mapbox",
+        "description": "Washington, D.C."},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.195899963378906,
+          45.46446502317906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"title": "Mapbox",
+        "description": "Washington, D.C."},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.182682037353516,
+          45.46133466725163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"title": "Mapbox",
+        "description": "Washington, D.C."},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.18253518640995,
+          45.461424498096726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"title": "Mapbox",
+        "description": "Washington, D.C."},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.18731689453125,
+          45.460612252738706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"title": "Mapbox",
+        "description": "Washington, D.C."},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.189376831054688,
+          45.44893193366566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"title": "Mapbox",
+        "description": "Washington, D.C."},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.161052703857422,
+          45.45254466188896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"title": "Mapbox",
+        "description": "Washington, D.C."},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.157962799072266,
+          45.46181627178453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"title": "Mapbox",
+        "description": "Washington, D.C."},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.154701232910156,
+          45.46964176885276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"title": "Mapbox",
+        "description": "Washington, D.C."},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.154014587402344,
+          45.47746617959318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"title": "Mapbox",
+        "description": "Washington, D.C."},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.163284301757812,
+          45.48240101841971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"title": "Mapbox",
+        "description": "Washington, D.C."},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.172897338867186,
+          45.484447044345096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"title": "Mapbox",
+        "description": "Washington, D.C."},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.18508529663086,
+          45.48637264792543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"title": "Mapbox",
+        "description": "Washington, D.C."},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.194869995117188,
+          45.48577090387727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"title": "Mapbox",
+        "description": "Washington, D.C."},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.204654693603516,
+          45.482521374942856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"title": "Mapbox",
+        "description": "Washington, D.C."},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.207401275634766,
+          45.47806801234675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"title": "Mapbox",
+        "description": "Washington, D.C."},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.200878143310547,
+          45.45964901898937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"title": "Mapbox",
+        "description": "Washington, D.C."},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.209976196289062,
+          45.45892658287832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"title": "Mapbox",
+        "description": "Washington, D.C."},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.211006164550781,
+          45.471688258104614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"title": "Mapbox",
+        "description": "Washington, D.C."},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.19281005859375,
+          45.4710863572147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"title": "Mapbox",
+        "description": "Washington, D.C."},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.202423095703125,
+          45.469762152630416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"title": "Mapbox",
+        "description": "Washington, D.C."},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.203624725341797,
+          45.454471355653965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"title": "Mapbox",
+        "description": "Washington, D.C."},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.191608428955078,
+          45.45423052253303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"title": "Mapbox",
+        "description": "Washington, D.C."},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.178390502929688,
+          45.45495301881037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"title": "Mapbox",
+        "description": "Washington, D.C."},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.17135238647461,
+          45.459528613613664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"title": "Mapbox",
+        "description": "Washington, D.C."},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.175987243652344,
+          45.44941364413244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"title": "Mapbox",
+        "description": "Washington, D.C."},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.169292449951172,
+          45.45254466188896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"title": "Mapbox",
+        "description": "Washington, D.C."},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.158649444580078,
+          45.45892658287832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"title": "Mapbox",
+        "description": "Washington, D.C."},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.211177825927734,
+          45.452183399480035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"title": "Mapbox",
+        "description": "Washington, D.C."},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.215812683105469,
+          45.451099598368785
+        ]
+      }
+    }
+  ]
+}
